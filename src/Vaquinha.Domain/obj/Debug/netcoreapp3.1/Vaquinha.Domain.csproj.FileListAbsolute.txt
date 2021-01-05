@@ -1,0 +1,9 @@
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\milsi\Desktop\Implementando uma stack de teste de unidade e integrados em um projeto .NET de Crowdfunding\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
